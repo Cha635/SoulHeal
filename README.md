@@ -164,3 +164,6 @@ JWT_SECRET=your_secret_key
 JWT_EXPIRE=7d
 NODE_ENV=development
 ```
+
+## 🎥 Demo Videos
+👉 Check Videos.md for complete demo walkthrough
